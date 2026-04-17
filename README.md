@@ -1,17 +1,17 @@
 # compiler-arch-notes
 
-本仓库用于分享编译器设计与系统架构相关的知识点和文章。
+本仓库专注于分析和分享编译器设计、系统架构、机器学习框架等领域的核心技术知识点与深度文章。内容涵盖从底层编译原理到前沿模型优化的多个技术方向，旨在为开发者提供系统化的技术参考。
 
 ## 目录结构
 
-- **[c++/](./c++)** - C++相关内容
-- **[compiler/](./compiler/)** - 编译器相关分析内容
-- **[mlir/](./mlir/)** - MLIR相关内容
-- **[pytorch/](./pytorch/)** - PyTorch相关内容
-- **[llm/](./llm/)** - LLM相关内容
-- **[system-architecture/](./system-architecture/)** - 系统架构相关内容
-- **[code-optimization/](./code-optimization/)** - 代码优化相关内容
-- **[performance-tuning/](./performance-tuning/)** - 性能调优相关内容
+- **[c++/](./c++)** - C++语言核心机制与工程实践分析
+- **[compiler/](./compiler/)** - 编译器设计与优化技术分析
+- **[mlir/](./mlir/)** - MLIR中间表示与编译基础设施深度解析
+- **[pytorch/](./pytorch/)** - PyTorch编译优化与动态形状支持分析
+- **[llm/](./llm/)** - 大型语言模型(LLM)架构与优化技术分析
+- **[system-architecture/](./system-architecture/)** - 系统架构设计与性能优化
+- **[code-optimization/](./code-optimization/)** - 代码优化技术与最佳实践
+- **[performance-tuning/](./performance-tuning/)** - 性能调优策略与工具分析
 
 ## Compiler
 
