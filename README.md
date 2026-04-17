@@ -1,17 +1,9 @@
 # compiler-arch-notes
 
-本仓库专注于分析和分享编译器设计、系统架构、机器学习框架等领域的核心技术知识点与深度文章。内容涵盖从底层编译原理到前沿模型优化的多个技术方向，旨在为开发者提供系统化的技术参考。
+本仓库分析和分享编译器设计、系统架构、机器学习框架等领域的核心技术知识点与深度文章。内容涵盖从底层编译原理到前沿模型优化的多个技术方向，是之前学习的一些记录，大部分由AI生成，部分手动编辑。
 
 ## 目录结构
 
-- **[c++/](./c++)** - C++语言核心机制与工程实践分析
-- **[compiler/](./compiler/)** - 编译器设计与优化技术分析
-- **[mlir/](./mlir/)** - MLIR中间表示与编译基础设施深度解析
-- **[pytorch/](./pytorch/)** - PyTorch编译优化与动态形状支持分析
-- **[llm/](./llm/)** - 大型语言模型(LLM)架构与优化技术分析
-- **[system-architecture/](./system-architecture/)** - 系统架构设计与性能优化
-- **[code-optimization/](./code-optimization/)** - 代码优化技术与最佳实践
-- **[performance-tuning/](./performance-tuning/)** - 性能调优策略与工具分析
 
 ## Compiler
 
@@ -50,14 +42,14 @@
 
 ### C++ 八股文
 
-- **[智能指针详解](./c++/smart-pointers.md)** - C++三种智能指针的详细介绍和使用场景
-- **[多态详解](./c++/polymorphism.md)** - C++多态的实现方式和原理
-- **[dyn_cast 模板详解](./c++/dyn-cast-template.md)** - LLVM/MLIR中dyn_cast模板的原理和使用
-- **[四种 Cast 转换的区别与应用场景](./c++/cast-conversions.md)** - C++类型转换的详细解析
-- **[C++11 核心机制详解](./c++/c++11-core-mechanisms.md)** - C++11的核心特性和机制
-- **[模板特化机制与典型工程陷阱深度解析](./c++/template-specialization.md)** - C++模板特化的原理和工程实践
-- **[C++ 核心机制详解](./c++/cpp-core-mechanisms.md)** - C++右值引用、const机制、并发编程等核心机制解析
-- **[std::vector vs llvm::SmallVector 对比分析](./c++/vector-vs-smallvector.md)** - C++标准容器与LLVM优化容器的对比
+- **[智能指针详解](./C++/smart-pointers.md)** - C++三种智能指针的详细介绍和使用场景
+- **[多态详解](./C++/polymorphism.md)** - C++多态的实现方式和原理
+- **[dyn_cast 模板详解](./C++/dyn-cast-template.md)** - LLVM/MLIR中dyn_cast模板的原理和使用
+- **[四种 Cast 转换的区别与应用场景](./C++/cast-conversions.md)** - C++类型转换的详细解析
+- **[C++11 核心机制详解](./C++/c++11-core-mechanisms.md)** - C++11的核心特性和机制
+- **[模板特化机制与典型工程陷阱深度解析](./C++/template-specialization.md)** - C++模板特化的原理和工程实践
+- **[C++ 核心机制详解](./C++/cpp-core-mechanisms.md)** - C++右值引用、const机制、并发编程等核心机制解析
+- **[std::vector vs llvm::SmallVector 对比分析](./C++/vector-vs-smallvector.md)** - C++标准容器与LLVM优化容器的对比
 
 
 ### 操作系统
