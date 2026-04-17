@@ -9,6 +9,10 @@
 
 - **[Tiling 大小设计：GPU vs NPU 深度解析](./compiler/tiling-analysis.md)** - 分析GPU和NPU的Tiling策略差异
 
+## GPU 
+
+- **[GPU相关技术专栏](https://zhuanlan.zhihu.com/c_1437330196193640448)** - 知乎专栏：GPU相关技术系列文章
+
 ## MLIR
 
 - **[Pattern Rewriting 与 Dialect Conversion 的机制分析与应用边界](./mlir/pattern-rewriting-dialect-conversion.md)** - MLIR编译基础设施的深度解析
